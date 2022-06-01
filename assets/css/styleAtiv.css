@@ -1,0 +1,45 @@
+html{
+    height: 100%;
+    width: 100%;
+    
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background: url("../img/bobsponja.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: #26B9C8;
+}
+h2{
+    color: #0457A0;
+}
+h3{
+    color: #F2ACB2;
+}
+
+textarea{
+    resize: none;
+}
+
+input,select{
+    margin-bottom: 11px;
+}
+
+.inputRad{
+    margin-top: 11px;
+}
+
+.btn-amarelo{
+    background-color: #d0db34;
+    border: black 1px solid;
+}
+
+.btn-amarelo:hover{
+    background-color: #afb91d;
+}
